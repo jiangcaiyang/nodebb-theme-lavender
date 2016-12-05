@@ -1,27 +1,99 @@
 {
-  "name": "nodebb-theme-lavender",
-  "version": "3.0.14",
-  "description": "Lavender Theme for NodeBB",
-  "main": "theme.less",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender"
+  "_args": [
+    [
+      {
+        "raw": "nodebb-theme-lavender@3.0.15",
+        "scope": null,
+        "escapedName": "nodebb-theme-lavender",
+        "name": "nodebb-theme-lavender",
+        "rawSpec": "3.0.15",
+        "spec": "3.0.15",
+        "type": "version"
+      },
+      "/home/jiangcaiyang/WebProject/QtDream"
+    ]
+  ],
+  "_from": "nodebb-theme-lavender@3.0.15",
+  "_id": "nodebb-theme-lavender@3.0.15",
+  "_inCache": true,
+  "_location": "/nodebb-theme-lavender",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodebb-theme-lavender-3.0.15.tgz_1476431854334_0.796998092206195"
   },
+  "_npmUser": {
+    "name": "baris",
+    "email": "barisusakli@gmail.com"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodebb-theme-lavender@3.0.15",
+    "scope": null,
+    "escapedName": "nodebb-theme-lavender",
+    "name": "nodebb-theme-lavender",
+    "rawSpec": "3.0.15",
+    "spec": "3.0.15",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-lavender/-/nodebb-theme-lavender-3.0.15.tgz",
+  "_shasum": "1787b87c93e9f2bef7cd11ec1807d6ddd831d664",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-theme-lavender@3.0.15",
+  "_where": "/home/jiangcaiyang/WebProject/QtDream",
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NodeBB/nodebb-theme-lavender/issues"
+  },
+  "dependencies": {},
+  "description": "Lavender Theme for NodeBB",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1787b87c93e9f2bef7cd11ec1807d6ddd831d664",
+    "tarball": "https://registry.npmjs.org/nodebb-theme-lavender/-/nodebb-theme-lavender-3.0.15.tgz"
+  },
+  "gitHead": "d184a2aa69dac0075071c4ffaa1acebae010b2f2",
+  "homepage": "https://github.com/NodeBB/nodebb-theme-lavender#readme",
   "keywords": [
     "nodebb",
     "lavender",
     "theme",
     "themes"
   ],
-  "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
-  },
   "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-lavender/issues"
-  },
+  "main": "theme.less",
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    },
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    },
+    {
+      "name": "baris",
+      "email": "barisusakli@gmail.com"
+    }
+  ],
+  "name": "nodebb-theme-lavender",
   "nbbpm": {
     "compatibility": "^0.9.0"
-  }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeBB/nodebb-theme-lavender.git"
+  },
+  "scripts": {},
+  "version": "3.0.15"
 }

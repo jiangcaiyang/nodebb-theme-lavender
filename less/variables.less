@@ -34,12 +34,12 @@
 // -------------------------
 
 @link-color:            @brand-primary;
-@link-hover-color:      #FF9000;
+@link-hover-color:      darken(@link-color, 15%);
 
 // Typography
 // -------------------------
 
-@font-family-sans-serif:  Raleway, Helvetica, Arial, sans-serif;
+@font-family-sans-serif:  Helvetica, Arial, sans-serif;
 @font-family-serif:       Georgia, "Times New Roman", Times, serif;
 @font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
 @font-family-base:        @font-family-sans-serif;
@@ -606,8 +606,8 @@
 
 // Code
 // ------------------------
-@code-color:                  #333;
-@code-bg:                     #FFF;
+@code-color:                  @gray-lighter;
+@code-bg:                     @gray-dark;
 
 @pre-bg:                      @gray-dark;
 @pre-color:                   @gray-dark;
